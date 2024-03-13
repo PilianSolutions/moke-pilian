@@ -1,0 +1,15 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "matricula": "pl1000",
+      "nome": "admin",
+      "sobreNome": "admin",
+      "nomeEmpresa": "xp",
+      "cnpj": "100331002121",
+      "email": "contato@pilian.com.br",
+      "telefone": "128948923",
+      "celular": "1238183193"
+    }
+  ]
+}
