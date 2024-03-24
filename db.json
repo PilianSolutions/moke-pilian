@@ -6,6 +6,7 @@
       "nome": "admin",
       "sobreNome": "admin",
       "nomeEmpresa": "xp",
+      "password":"1234",
       "cnpj": "100331002121",
       "email": "contato@pilian.com.br",
       "telefone": "128948923",
