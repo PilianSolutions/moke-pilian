@@ -12,5 +12,15 @@
       "telefone": "128948923",
       "celular": "1238183193"
     }
-  ]
+  ],
+
+  "funcionarios":[{
+    "id": 1,
+    "Nome": "Carlos Eduardo José Santos",
+    "email":"carlos.santos@pilian.com.br",
+    "telefone": 77999717740,
+    "Cargo": "Gerente de Vendas",
+    "Modulo": "Gerenciamento de Estoque",
+    "Status": "online"
+  }]
 }
